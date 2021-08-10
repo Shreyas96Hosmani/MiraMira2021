@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="wishlistButton" transform="translate(-40 -135)">
+    <circle id="Ellipse_78" data-name="Ellipse 78" cx="15" cy="15" r="15" transform="translate(40 135)" fill="#e6e6e6"/>
+    <g id="bookmark" transform="translate(48.554 141.415)">
+      <path id="Path_14" data-name="Path 14" d="M120.494,79.638l2.767-1.455,2.767,1.455-.528-3.081,2.239-2.182-3.094-.45-1.384-2.8-1.383,2.8-3.094.45,2.239,2.182Zm.393-4.58,1.64-.238.733-1.486.734,1.486,1.64.238-1.187,1.157.28,1.633-1.467-.771-1.467.771.28-1.633Z" transform="translate(-116.899 -68.802)" fill="#1e73be"/>
+      <path id="Path_15" data-name="Path 15" d="M17.729,1.973V.015H5v16.7l6.362-3.9,6.362,3.9V1.973Zm-.979,13-5.384-3.3-5.384,3.3V.994H16.75Z" transform="translate(-5.004 -0.015)" fill="#1e73be"/>
+    </g>
+  </g>
+</svg>

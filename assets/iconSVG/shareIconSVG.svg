@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="shareIconSVG" transform="translate(-106 -135)">
+    <circle id="Ellipse_78" data-name="Ellipse 78" cx="15" cy="15" r="15" transform="translate(106 135)" fill="#e6e6e6"/>
+    <g id="share" transform="translate(110.286 140)">
+      <g id="Group_18" data-name="Group 18" transform="translate(0)">
+        <path id="Path_13" data-name="Path 13" d="M30.177,12.069A3.269,3.269,0,0,0,27.546,13.4l-5.136-2.624A3.272,3.272,0,0,0,22.3,8.625l5.382-3.234a3.258,3.258,0,1,0-.56-.936L21.731,7.7a3.271,3.271,0,1,0,.2,4.057l5.121,2.617a3.272,3.272,0,1,0,3.125-2.3Zm0-10.978A2.181,2.181,0,1,1,28,3.272,2.184,2.184,0,0,1,30.177,1.091ZM19.272,12.033a2.181,2.181,0,1,1,2.181-2.181A2.184,2.184,0,0,1,19.272,12.033Zm10.906,5.489a2.181,2.181,0,1,1,2.181-2.181A2.184,2.184,0,0,1,30.177,17.522Z" transform="translate(-16)" fill="#1e73be"/>
+      </g>
+    </g>
+  </g>
+</svg>

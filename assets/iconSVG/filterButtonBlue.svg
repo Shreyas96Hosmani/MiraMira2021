@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="fliterBlue" transform="translate(-293 -203)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="17.5" cy="17.5" r="17.5" transform="translate(293 203)" fill="#1e73be"/>
+    <g id="Group" transform="translate(0 -10.607)">
+      <g id="Group-2" data-name="Group">
+        <path id="Vector" d="M16.393,0H.607A.666.666,0,0,0,0,.712v3.56A.772.772,0,0,0,.2,4.8L6.071,11v8.226a.666.666,0,0,0,.607.712.535.535,0,0,0,.272-.075l3.643-2.136a.733.733,0,0,0,.336-.637V11L16.8,4.8a.772.772,0,0,0,.2-.53V.712A.666.666,0,0,0,16.393,0Zm-.607,3.955-5.87,6.194a.772.772,0,0,0-.2.53v5.967L7.286,18.07V10.679a.772.772,0,0,0-.2-.529l-5.871-6.2V1.424H15.786Z" transform="translate(302 221.607)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

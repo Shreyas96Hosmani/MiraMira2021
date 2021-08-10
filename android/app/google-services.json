@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "534262463903",
+    "project_id": "miramira-3e2a0",
+    "storage_bucket": "miramira-3e2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534262463903:android:b560bd17ed07e925a291aa",
+        "android_client_info": {
+          "package_name": "catenate.mira.mira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534262463903-3tfljkgjab5hanvtp0b6gnvmkdm72r5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "catenate.mira.mira",
+            "certificate_hash": "55bfed75eedc506678c5bc0a66fc9ceeb09de46e"
+          }
+        },
+        {
+          "client_id": "534262463903-7rfjnr05vcb90790sm91hoq3c5kcacev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "catenate.mira.mira",
+            "certificate_hash": "c0f1f3a2bebaac786dcc53f9d00145342fc0ffbb"
+          }
+        },
+        {
+          "client_id": "534262463903-bj4b2ol27i4v5ukmoeuokjoismh99js8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "catenate.mira.mira",
+            "certificate_hash": "f3e62fead3c4ca0749bc2c26719967892a9099d8"
+          }
+        },
+        {
+          "client_id": "534262463903-uin3tspkpm3s6hr3mun9p5k21k6nhir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBGgHwLM3FIMItYAyipOyh6tAqXT9dz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534262463903-uin3tspkpm3s6hr3mun9p5k21k6nhir0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534262463903-h6pjlv1kahn53biu88jc0scr2tgl066a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "catenate.mira.mira",
+                "app_store_id": "1578763489"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="filterButton" transform="translate(-289 -203)">
+    <circle id="Ellipse_78" data-name="Ellipse 78" cx="17.5" cy="17.5" r="17.5" transform="translate(289 203)" fill="#e6e6e6"/>
+    <g id="Group" transform="translate(-1019 -1568)">
+      <g id="Group-2" data-name="Group">
+        <path id="Vector" d="M16.393,0H.607A.607.607,0,0,0,0,.607V3.643a.607.607,0,0,0,.2.451L6.071,9.377v7.016a.607.607,0,0,0,.879.543l3.643-1.821a.607.607,0,0,0,.336-.543V9.377L16.8,4.1a.607.607,0,0,0,.2-.452V.607A.607.607,0,0,0,16.393,0Zm-.607,3.373L9.915,8.655a.607.607,0,0,0-.2.452V14.2L7.286,15.411v-6.3a.607.607,0,0,0-.2-.451L1.214,3.373V1.214H15.786Z" transform="translate(1317 1780)" fill="#1e73be" stroke="#1e73be" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534262463903-h6pjlv1kahn53biu88jc0scr2tgl066a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534262463903-h6pjlv1kahn53biu88jc0scr2tgl066a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>534262463903-dlkcan699jal14p0kof8ic1pk8ld2nsf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfF5N10A3xX0-cfGqR_NWxsEf5WSgE2Ck</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534262463903</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>catenate.mira.mira</string>
+	<key>PROJECT_ID</key>
+	<string>miramira-3e2a0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>miramira-3e2a0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534262463903:ios:50ce06fa1ed78c18a291aa</string>
+</dict>
+</plist>
